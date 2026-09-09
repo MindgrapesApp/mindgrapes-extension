@@ -1,7 +1,7 @@
 # Mind Grapes browser extension
 
 Chrome MV3 extension that bookmarks the current page into
-[Mind Grapes](https://github.com/JoeCotellese/mindgrapes-server). Click the
+[Mind Grapes](https://github.com/MindgrapesApp/mindgrapes-server). Click the
 toolbar action, click **Save**, and the extension extracts the readable page
 text, sends `{url, title, text}` to the server's `POST /capture` endpoint, and
 shows the returned summary with a link to view the stored experience.

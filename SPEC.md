@@ -2,7 +2,7 @@
 
 Chrome MV3 extension to bookmark the current page into Mind Grapes. Client half
 of the feature; the server `POST /capture` endpoint lives in the `openbrain`
-(mindgrapes-server) repo — see JoeCotellese/mindgrapes-server#35.
+(mindgrapes-server) repo — see MindgrapesApp/mindgrapes-server#35.
 
 ## What it does
 
